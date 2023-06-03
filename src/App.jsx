@@ -22,8 +22,8 @@ const App = () => (
   <div className={`sm:px-16 ${styles.flexStart}`}>
     <div className={`${styles.boxWidth}`}>
       <About/>
-      <Background/>
       <Projects/>
+      <Background/>
       <Contact/>
       <Footer/>
     </div>
