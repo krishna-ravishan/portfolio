@@ -7,7 +7,7 @@ import innovation from '../assets/innovation-animate.svg'
 const Hero = () => {
   return (
     <section id="home" className={`flex md:flex-row flex-col`}>
-      <div className="flex flex-col md:flex-row md:w-[100vw] md:h-[100vh]">
+      <div className="flex flex-col md:flex-row md:w-[100vw] md:h-[100vh] justify-center items-center">
         <div className="flex-1 md:w-[50%] md:h-[100%]">
           <div className="md:w-[60%] md:h-[90%] relative md:top-36 md:left-16 text-center md:text-left">
             <h1 className='font-bold text-6xl md:text-8xl'>
