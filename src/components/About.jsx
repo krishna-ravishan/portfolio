@@ -7,8 +7,8 @@ import Resume from "../assets/resume.pdf"
 
 const About = () => {
   return (
-    <section id="about" className={`flex md:flex-row flex-col mb-10`}>
-        <div className="flex flex-col w-[100%] h-[100%] md:flex-row md:w-[100vw] md:h-[100vh]">
+    <section id="about" className={`flex md:flex-row flex-col mb-5 md:mb-1`}>
+        <div className="flex flex-col w-[100%] h-[100%] md:flex-row md:w-[90vw] md:h-[90vh]">
           <div className="flex-1 w-[100%] md:block h-[40%] mb-0 md:w-[50%] md:h-[100%]">
             <img src={me} alt="portrait" className='block mx-auto pr-8 md:mx-0 md:pr-0 rounded-3xl md:rounded-lg md:rounded-tr-3xl w-[60%] md:w-[70%] md:h-auto'/>
           </div>

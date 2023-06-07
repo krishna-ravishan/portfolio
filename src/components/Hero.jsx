@@ -16,7 +16,7 @@ const Hero = () => {
               Transforming Digital Experiences <br></br> 
               with Code & Creativity
             </h3>
-            <p className='mt-7 px-16 md:px-0'>I’m a software engineer & UI UX Designer in a constant search new ideas to come up with the next best thing.  Welcome to my digital doorstep</p>
+            <p className='mt-7 px-16 md:px-0 text-neutral-500 dark:text-neutral-300'>I’m a software engineer & UI UX Designer in a constant search new ideas to come up with the next best thing.  Welcome to my digital doorstep</p>
           </div>
         </div>
         <div className="flex flex-1 invisible sm:visible justify-center items-center md:w-[50%] md:h-[100%]">
