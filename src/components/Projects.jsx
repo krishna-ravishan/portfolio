@@ -9,7 +9,7 @@ import project6 from '../assets/images/project-6.png'
 
 const Projects = () => {
   return (
-  <section class="mb-16 text-center lg:text-left">
+  <section id='projects' class="mb-16 text-center lg:text-left">
     <h1 className='font-bold text-6xl md:text-8xl pr-0 font-poppins text-center my-10'><span className="text-yellow-400">Pro</span>jects</h1>
 
     <div class="grid gap-x-6 lg:grid-cols-3 mb-3 mx-5">
@@ -114,7 +114,7 @@ const Projects = () => {
           HTML &#x2022; CSS &#x2022; JS/ES6+ &#x2022; Bootstrap
         </div>
         <p class="text-neutral-500 dark:text-neutral-300">
-        A captivating Hulu website clone with a dynamic technical foundation. JavaScript and PHP power the seamless registration and sign-in pages. HTML and CSS create an immersive frontend for an unparalleled streaming experience.
+        A captivating Hulu website clone with a dynamic technical foundation. JavaScript and PHP power the seamless registration and sign-in pages. HTML and CSS create an immersive frontend for an unparalleled streaming experience. Front-End Credit: <a href="https://github.com/avishka964" target="_blank">Avishka Kapuruge</a>
         </p>
       </div>
 
